@@ -260,7 +260,7 @@ class _MyHomePageState extends State<MyHomePage> {
         keyWordSearching(s, 'photo_reference'),
         new List());
 
-    current_db=dB;
+    current_db = dB;
     photoPrefToImageList();
     setState(() {});
   }
