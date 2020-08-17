@@ -9,7 +9,7 @@ import 'package:google_maps_flutter/google_maps_flutter.dart';
 import 'package:search_map_place/search_map_place.dart';
 import 'package:flutterapp/nearBySearchResult.dart';
 
-import 'getNearByRestaurant.dart';
+
 
 void main() {
   runApp(MyApp());
